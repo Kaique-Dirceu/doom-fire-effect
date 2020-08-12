@@ -1,29 +1,36 @@
-# 🔥 Fire Doom 
+<h1 align="center"> Fire Doom </h1>
 
-## Recriando o efeito de fogo do jogo Doom
-
-  ![Bower](https://img.shields.io/bower/l/f)   [![GitHub stars](https://img.shields.io/github/stars/Kaique-Dirceu/doom-fire-effect)](https://github.com/Kaique-Dirceu/doom-fire-effect/stargazers)   [![GitHub forks](https://img.shields.io/github/forks/Kaique-Dirceu/doom-fire-effect)](https://github.com/Kaique-Dirceu/doom-fire-effect/network)  [![GitHub issues](https://img.shields.io/github/issues/Kaique-Dirceu/doom-fire-effect)](https://github.com/Kaique-Dirceu/doom-fire-effect/issues)
-  
+<p align="center">🔥 Recriando o efeito de fogo do jogo Doom</p>
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/fire_doom.gif" />
+  <img src="https://img.shields.io/bower/l/f" />
+  <img src="https://img.shields.io/github/stars/Kaique-Dirceu/doom-fire-effect" />
+  <img src="https://img.shields.io/github/forks/Kaique-Dirceu/doom-fire-effect" />
+  <img src="https://img.shields.io/github/issues/Kaique-Dirceu/doom-fire-effect" />
 </h1>
+
+<h1 align="center">
+  <img alt="fire" title="fire" src="./img/fire_doom.gif" />
+</h1>
+
+<h4 align="center"> 
+	🚧  Fire doom | Concluído 🚀 🚧
+</h4>
+
+## 💻 Sobre o projeto
+
+Projeto desenvolvido em cima de um video feito pelo Filipe Desha
+
+### 🌀 Como executar o programa
 
 ```bash
   # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/Kaique-Dirceu/doom-fire-effect>
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+# Acesse a pasta do projeto 
+$ doom-fire-effect
 
-# Vá para a pasta server
-$ cd server
+# Abra como o seu browser o arquivo:
+$ index.html
 
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
-
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
 ```
