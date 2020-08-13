@@ -22,7 +22,7 @@
 Projeto desenvolvido em cima de um video feito pelo Filipe Deshamps no YouTube. Que tinha como finalidade criar um algoritmo para
 criar a animação de fogo do jogo Doom, a animação em si ficou no estilo pixelart muito massa!
 
-### 🌀 Como executar o programa
+## 🌀 Como executar o programa
 
 ```bash
   # Clone este repositório
@@ -55,4 +55,4 @@ As seguintes linguagens foram usadas na construção do projeto:
 
 Feito com ❤️ por Kaique Dirceu 👋🏽 Entre em contato!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Kaique_dirceu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Kaique_dirceu)](https://twitter.com/Kaique_dirceu)  [![Linkedin Badge](https://img.shields.io/badge/-Kaique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaique-dirceu/)](https://www.linkedin.com/in/kaique-dirceu/)  [![Gmail Badge](https://img.shields.io/badge/-dirceukaique@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dirceukaique@gmail.com)](mailto:dirceukaique@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Kaique_dirceu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Kaique_dirceu)](https://twitter.com/Kaique_dirceu)  [![Linkedin Badge](https://img.shields.io/badge/-Kaique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaique-dirceu-8863731a6/)](https://www.linkedin.com/in/kaique-dirceu-8863731a6/)   [![Gmail Badge](https://img.shields.io/badge/-dirceukaique@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dirceukaique@gmail.com)](mailto:dirceukaique@gmail.com)
