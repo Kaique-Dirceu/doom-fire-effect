@@ -45,6 +45,9 @@ As seguintes linguagens foram usadas na construção do projeto:
 -  CSS
 -  JavaScript
 
+## 📄 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 
 ### Autor
